@@ -1,5 +1,5 @@
 {
-    "Name": "Exploring the electrophysiology of Parkinson's disease - magnetoencephalography combined with deep brain recordings of the subthalamic nucleus",
+    "Name": "RestHoldMove",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
@@ -15,6 +15,6 @@
     "Funding": [
         "The project was funded by ERA-NET Neuron for 3 years (2009-2012)."
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004907.v1.2.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004998",
     "License": "CC0"
 }
