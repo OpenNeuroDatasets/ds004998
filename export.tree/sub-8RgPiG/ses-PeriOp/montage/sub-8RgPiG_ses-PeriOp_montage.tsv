@@ -1,0 +1,9 @@
+participant_id	right_contacts_old	right_contacts_new	left_contacts_old	left_contacts_new
+rhm021	EEG004	LFP-right-0	EEG036	LFP-left-0
+rhm021	EEG009	LFP-right-1	EEG041	LFP-left-1
+rhm021	EEG008	LFP-right-2	EEG040	LFP-left-2
+rhm021	EEG007	LFP-right-3	EEG039	LFP-left-3
+rhm021	EEG002	LFP-right-4	EEG034	LFP-left-4
+rhm021	EEG003	LFP-right-5	EEG035	LFP-left-5
+rhm021	EEG006	LFP-right-6	EEG048	LFP-left-6
+rhm021	EEG001	LFP-right-7	EEG033	LFP-left-7
