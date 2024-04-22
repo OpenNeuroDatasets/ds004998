@@ -1,0 +1,13 @@
+filename	acq_time
+meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_meg.fif	1925-01-01T07:05:00.525552Z
+meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-02_meg.fif	1925-01-01T07:05:00.525552Z
+meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-2_meg.fif	1925-01-01T07:05:00.525552Z
+meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_meg.fif	1925-01-01T09:00:49.384269Z
+meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-02_meg.fif	1925-01-01T09:00:49.384269Z
+meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-2_meg.fif	1925-01-01T09:00:49.384269Z
+meg/sub-iDpl28_ses-PeriOp_task-MoveL_acq-MedOff_run-1_split-01_meg.fif	1925-01-01T07:45:19.795451Z
+meg/sub-iDpl28_ses-PeriOp_task-MoveL_acq-MedOff_run-1_split-02_meg.fif	1925-01-01T07:45:19.795451Z
+meg/sub-iDpl28_ses-PeriOp_task-MoveL_acq-MedOff_run-2_meg.fif	1925-01-01T07:45:19.795451Z
+meg/sub-iDpl28_ses-PeriOp_task-MoveR_acq-MedOn_run-1_split-01_meg.fif	1925-01-01T09:22:56.575246Z
+meg/sub-iDpl28_ses-PeriOp_task-MoveR_acq-MedOn_run-1_split-02_meg.fif	1925-01-01T09:22:56.575246Z
+meg/sub-iDpl28_ses-PeriOp_task-MoveR_acq-MedOn_run-2_meg.fif	1925-01-01T09:22:56.575246Z
